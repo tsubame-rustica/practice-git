@@ -47,7 +47,7 @@
 
 7.  リモートにプッシュする（GitHubに変更を反映させる）
     ```sh
-    git push origin test
+    git push origin feature/自分の名前/test
     ```
 
 8.  GitHubでプルリクエストを作成
