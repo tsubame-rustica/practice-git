@@ -12,9 +12,12 @@
     公開できるものを入れておくブランチ
 
 ## 手順
-1.  リモートのリポジトリをローカルにクローンする
+1.  リモートのリポジトリをローカルにクローンして開く
     ```sh
     git clone https://github.com/tsubame-rustica/practice-git.git
+    ```
+    ```sh
+    cd ./practice-git
     ```
 
 2.  新しいブランチを作成
